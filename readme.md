@@ -1,6 +1,8 @@
 # Extism Playground
 
-This is a solution that combines the Extism Plugin Development Kit (PDK) and the Extism Software Development Kit (SDK) into a producer/consumer example.
+
+
+This is a solution that combines the [Extism](https://extism.org) Plugin Development Kit (PDK) and the Extism Software Development Kit (SDK) into a producer/consumer example.
 
 ## Getting Started
 
